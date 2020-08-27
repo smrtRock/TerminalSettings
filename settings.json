@@ -20,7 +20,11 @@
     "profiles": {
         "defaults": {
             // Put settings here that you want to apply to all profiles.
-            "cursorShape": "vintage"
+            "cursorShape": "vintage",
+            "backgroundImage": "C:/Users/marcu/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/miku.png",
+            "backgroundImageAlignment": "bottomRight",
+            "backgroundImageStretchMode": "uniform",
+            "backgroundImageOpacity": 0.3
         },
         "list": [
             {
