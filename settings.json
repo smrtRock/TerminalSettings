@@ -24,7 +24,9 @@
             "backgroundImage": "C:/Users/marcu/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/miku.png",
             "backgroundImageAlignment": "bottomRight",
             "backgroundImageStretchMode": "uniform",
-            "backgroundImageOpacity": 0.3
+            "backgroundImageOpacity": 0.3,
+            "startingDirectory": "C:/users/marcu/source/repos",
+            "colorScheme": "Cobalt2"
         },
         "list": [
             {
@@ -109,6 +111,70 @@
     // Add custom color schemes to this array.
     // To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
     "schemes": [
+        {
+            "background": "#193549",
+            "black": "#000000",
+            "blue": "#1478DB",
+            "brightBlack": "#808080",
+            "brightBlue": "#1478DB",
+            "brightCyan": "#00ffff",
+            "brightGreen": "#33ff00",
+            "brightPurple": "#cc00ff",
+            "brightRed": "#ff0000",
+            "brightWhite": "#ffffff",
+            "brightYellow": "#ffff00",
+            "cyan": "#00c5c7",
+            "foreground": "#c7c7c7",
+            "green": "#3AD900",
+            "name": "Cobalt2",
+            "purple": "#ff2c70",
+            "red": "#ff2600",
+            "white": "#c7c7c7",
+            "yellow": "#ffc600"
+        },
+        {
+            "name": "Solarized Dark Patched",
+            "cursorColor": "#657b83",
+            "background": "#002b36",
+            "foreground": "#fdf6e3",
+            "black": "#073642",
+            "blue": "#268bd2",
+            "cyan": "#2aa198",
+            "green": "#859900",
+            "purple": "#d33682",
+            "red": "#dc322f",
+            "white": "#eee8d5",
+            "yellow": "#b58900",
+            "brightBlack": "#657b83",
+            "brightBlue": "#839496",
+            "brightCyan": "#93a1a1",
+            "brightGreen": "#586e75",
+            "brightPurple": "#6c71c4",
+            "brightRed": "#cb4b16",
+            "brightWhite": "#fdf6e3",
+            "brightYellow": "#657b83"
+        },
+        {
+            "name": "Aurelia",
+            "background": "#1a1a1a",
+            "black": "#000000",
+            "blue": "#579BD5",
+            "brightBlack": "#797979",
+            "brightBlue": "#9CDCFE",
+            "brightCyan": "#2BC4E2",
+            "brightGreen": "#1AD69C",
+            "brightPurple": "#975EAB",
+            "brightRed": "#EB2A88",
+            "brightWhite": "#EAEAEA",
+            "brightYellow": "#e9ad95",
+            "cyan": "#00B6D6",
+            "foreground": "#EA549F",
+            "green": "#4EC9B0",
+            "purple": "#714896",
+            "red": "#E92888",
+            "white": "#EAEAEA",
+            "yellow": "#CE9178"
+        },
         {
             // Color Scheme: VibrantInk
             "background": "#000000",
